@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Shivam Dwivedi 👋
 
-<!--
-**Shivamdwivedi3107/shivamdwivedi3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech AI/ML Student | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning.
+I enjoy building practical applications using Python, Machine Learning,
+FastAPI, databases, and Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech student in Artificial Intelligence & Machine Learning
+- 💻 Interested in Python, Machine Learning and Backend Development
+- 🤖 Building AI-powered real-world applications
+- 🌱 Currently improving my skills in AI/ML, FastAPI and software development
+- 📚 Interested in DSA, databases and application development
+
+## 🛠️ Tech Stack
+
+### Programming
+- Python
+- C/C++
+- SQL
+
+### AI / Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- Machine Learning
+
+### Backend
+- FastAPI
+- SQLAlchemy
+- REST APIs
+
+### Database
+- SQLite
+- SQL
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Flutter
+
+## 🚀 Featured Projects
+
+### 🏥 AI Medical Assistance
+AI-powered educational application that analyzes user-provided symptoms
+and generates an AI-based prediction.
+
+**Technologies:** Python, FastAPI, Scikit-learn, SQLAlchemy, SQLite
+
+### 🌾 AI Farming Advisor
+AI-powered application designed to provide useful farming assistance
+using machine learning and backend APIs.
+
+**Technologies:** Python, FastAPI, Machine Learning
+
+## 🎯 Current Goals
+
+- Build production-quality AI/ML projects
+- Improve Data Structures & Algorithms
+- Learn advanced Machine Learning
+- Develop full-stack AI applications
+- Prepare for software/AI internships
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/shivam-dwivedi
+
+---
+
+⭐ Thanks for visiting my profile!
