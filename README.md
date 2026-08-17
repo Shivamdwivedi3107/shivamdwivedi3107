@@ -42,15 +42,17 @@ FastAPI, databases, and Flutter.
 - VS Code
 - Flutter
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Building
 
 ### 🏥 AI Medical Assistance
-AI-powered educational application that analyzes user-provided symptoms
-and generates an AI-based prediction.
+
+AI-powered educational application for symptom analysis and
+AI-based prediction.
 
 **Technologies:** Python, FastAPI, Scikit-learn, SQLAlchemy, SQLite
 
 ### 🌾 AI Farming Advisor
+
 AI-powered application designed to provide useful farming assistance
 using machine learning and backend APIs.
 
