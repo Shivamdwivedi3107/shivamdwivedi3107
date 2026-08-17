@@ -66,7 +66,7 @@ using machine learning and backend APIs.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/shivam-dwivedi
+GitHub: https://github.com/shivamdwivedi3107
 
 ---
 
